@@ -1,0 +1,33 @@
+#login,#register{
+    
+    margin-left: 600px;
+}
+#loginreg{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-left: 10px;
+}
+#login{
+    position: relative;
+    left: 1000px;
+}
+#register{
+    position: relative;
+    left: 420px;
+}
+#navtab{
+    padding-left: 20px;
+    margin-left: 400px;
+}
+.nav-link{
+    padding-left: 50px;
+    margin-left: 300px;
+    font-size: larger;
+    font-weight:bolder;
+    color: blue;
+}
+.card-img-overlay{
+    position: relative;
+    left: 700px;
+}
